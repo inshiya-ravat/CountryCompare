@@ -1,6 +1,6 @@
-# 🌍 GlobeCompare
+# 🌍 CountryCompare
  
-GlobeCompare is a frontend-only React application that allows users to compare countries side-by-side using real-time data. Built with **Redux Toolkit Query**, it fetches country details from an external API and displays them with an intuitive UI.
+CountryCompare is a frontend-only React application that allows users to compare countries side-by-side using real-time data. Built with **Redux Toolkit Query**, it fetches country details from an external API and displays them with an intuitive UI.
  
 ## 🚀 Features
  
